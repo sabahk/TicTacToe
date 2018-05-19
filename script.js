@@ -61,4 +61,3 @@ function gameOver(gameWon){
         cells[i].removeEventListener('click', turnClick, false)    
     }
 }
-}
